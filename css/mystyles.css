@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif, Helvetica;
+}
+.move-top {
+  margin-top:30px;
+}
+.code-img {
+  width: 100%;
+  height: 65%;
+}
+.feature {
+  margin-top: -25%;
+}
+.card{
+ box-shadow: 0 0 20px #ccc;
+}
+.fix-icon {
+  margin-top: 15px;
+  margin-bottom: 2%;
+}
+.text-move {
+  margin-top: 10px;
+  margin-bottom: -20px;
+}
